@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    padding-top: 200px;
+    background: url(https://i.ibb.co/NL5W88z/background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 86px;
+    font-family: 'Cinzel', serif;
+}
+
+h4{
+    opacity: .7;
+    height: 24px;
+    font-size: 20px;
+    color:#2C2E2F  
+}
+
+a{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 12px 32px;
+    color: #000000;
+}
+
+/*seletor de classe*/
+.btn-primary {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #DB2777;
+    border-radius: 30px;
+}
+
